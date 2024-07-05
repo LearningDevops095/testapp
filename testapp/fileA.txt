@@ -1,3 +1,4 @@
 this is file A
 added a feature in file A
 this is brand new feature in A
+testing squash merge
