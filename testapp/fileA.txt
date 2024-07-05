@@ -1,2 +1,2 @@
 this is file A
-this is new feature added in master branch
+added a feature in file A
