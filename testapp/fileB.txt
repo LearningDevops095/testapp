@@ -2,3 +2,4 @@ this is file B
 New feature in file B
 This is brand new feature in file B
 testing squash merge in file B
+feture 200
